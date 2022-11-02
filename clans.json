@@ -1,0 +1,8 @@
+{
+    "si": {
+        "style": "color: #60bf73;"
+    },
+    "clit": {
+        "style": "animation: rainbow 0.8s linear; animation-iteration-count: infinite;"
+    }
+}

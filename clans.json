@@ -2,6 +2,9 @@
     "si": {
         "style": "animation: rainbow 0.8s linear; animation-iteration-count: infinite;"
     },
+    "luna": {
+        "style": "color: #4fc3f7"
+    }
     "R.by": {
         "style": "color: #7b0404;"
     },

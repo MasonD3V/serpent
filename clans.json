@@ -2,6 +2,9 @@
     "si": {
         "style": "animation: rainbow 0.8s linear; animation-iteration-count: infinite;"
     },
+    "clit": {
+        "style": "background: -webkit-linear-gradient(#eee, #333); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"
+    },
     "R.by": {
         "style": "color: #7b0404;"
     },

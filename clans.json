@@ -1,6 +1,6 @@
 {
     "si": {
-        "style": "text-shadow: #FFF 1px 0 10px; color: #5ebe77"
+        "style": "color: #5ebe77"
     },
     "clit": {
         "style": "background: -webkit-linear-gradient(45deg, #f3ec78, #af4261); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"
